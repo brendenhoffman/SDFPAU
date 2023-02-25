@@ -5,4 +5,4 @@ This simply adds a script to KDE to run the Flatpak update command at login, how
 
 Installation is automated with this one-liner, you can copy and paste the following in the terminal:
 
-`wget https://raw.githubusercontent.com/brendenhoffman/SDFPAU/main/install.sh && sh install.sh`
+`curl -L https://raw.githubusercontent.com/brendenhoffman/SDFPAU/main/install.sh | sh`
